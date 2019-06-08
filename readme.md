@@ -13,10 +13,10 @@
 - Bootstrap block **310.770** for GoByteCoin Linux hot masternode.
 - Run following command lines:
 ```css
-wget https://raw.githubusercontent.com/mangae/GoByte_bootstrap/master/bootstrap.sh
+wget https://raw.githubusercontent.com/mangae/GoByte_bootstrap/master/gbxbootstrap.sh
 ```
 ```css
-bash bootstrap.sh
+bash gbxbootstrap.sh
 ```
 **Note:**
 - Synchronization time may vary of your VPS hardware and network performance.
